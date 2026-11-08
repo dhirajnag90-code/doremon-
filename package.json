@@ -1,0 +1,17 @@
+{
+  "name": "esports-backend",
+  "version": "1.0.0",
+  "description": "Esports tournament backend (Express + Firebase Admin + Cashfree)",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "firebase-admin": "^12.7.0"
+  }
+}
